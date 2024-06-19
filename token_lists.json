@@ -1,0 +1,12 @@
+[
+    {
+        "symbol": "PHO",
+        "token": "CBZ7M5B3Y4WWBZ5XK5UZCAFOEZ23KSSZXYECYX3IXM6E2JOLQC52DK32",
+        "decimals": 7
+    },
+    {
+        "symbol": "USDC",
+        "token": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+        "decimals": 7
+    }
+]
