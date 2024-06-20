@@ -1,8 +1,8 @@
 [
     {
         "ticker_id": "PHO_USDC",
-        "base_currency": "PHO",
-        "target_currency": "USDC",
+        "base_currency": "CBZ7M5B3Y4WWBZ5XK5UZCAFOEZ23KSSZXYECYX3IXM6E2JOLQC52DK32",
+        "target_currency": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
         "pool_contract": "CAZ6W4WHVGQBGURYTUOLCUOOHW6VQGAAPSPCD72VEDZMBBPY7H43AYEC"
     }
 ]
