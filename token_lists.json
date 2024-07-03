@@ -1,5 +1,11 @@
 [
     {
+        "symbol": "XLM",
+        "token":"XLM",
+        "soroban_contract": "CAS3J7GYLGXMF6TDJBBYYSE3HQ6BBSMLNUQ34T6TZMYMW2EVH34XOWMA",
+        "decimals": 7
+    },
+    {
         "symbol": "PHO",
         "token":"PHO-GAX5TXB5RYJNLBUR477PEXM4X75APK2PGMTN6KEFQSESGWFXEAKFSXJO",
         "soroban_contract": "CBZ7M5B3Y4WWBZ5XK5UZCAFOEZ23KSSZXYECYX3IXM6E2JOLQC52DK32",
